@@ -123,3 +123,10 @@ npm run dev
 - Election Commission of India
 
 ### Screenshots
+![Screenshot 2025-05-17 122849](https://github.com/user-attachments/assets/eea8020b-a163-484f-8e65-7ea2de3e44cb)
+
+![Screenshot 2025-05-17 122938](https://github.com/user-attachments/assets/0ff5f0d8-2895-46c2-a581-1deafac18fe6)
+
+![Screenshot 2025-05-17 123009](https://github.com/user-attachments/assets/f1de4c26-3ec4-4b7d-bedb-95359fa14a2b)
+
+![Screenshot 2025-05-17 123041](https://github.com/user-attachments/assets/f7dbb4b5-4b0b-4090-9e45-27b4aadf7ebc)
